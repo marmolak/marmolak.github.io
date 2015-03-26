@@ -13,7 +13,7 @@ a { color: yellow; \
 } \
 </style> \
 <div> \
-<a href="/"><img src="./img/logo.png"></a> \
+<a href="/"><img src="/img/logo.png"></a> \
 </div> \
 
 /* End of page */
