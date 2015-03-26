@@ -11,4 +11,4 @@ link(my github, "https://github.com/marmolak")
 link(Hacking BlackThorne for fun, "/g/b/blackthorne.html")
 </div>
 
-tail
+tail_front

@@ -18,6 +18,11 @@ a { color: yellow; \
 
 /* End of page */
 #define tail \
+<a href="/">Back to main page</a>
+</body> \
+</html>
+
+#define tail_front \
 </body> \
 </html>
 
