@@ -3,7 +3,8 @@ header
 
 <h1>BlackThorne</h1>
 
-<p>link(BlackThorne,"http://en.wikipedia.org/wiki/Blackthorne") were released for free for Mac OS X and Windows.</p>
+<p>link(BlackThorne,"http://en.wikipedia.org/wiki/Blackthorne") were released for free for Mac OS X and Windows.<br/>
+(BTW: If you understand czech link(here,"http://games.tiscali.cz/video/retro-gamesplay-hrajeme-akcni-klasiku-blackthorne-od-blizzardu-247868") are short gameplay)</p>
 <p>
 Game runs fine on Mac OS X but no Linux version are available. Which is strange because game runs under patched DosBox.
 (TODO: investigate how launcher for os x works - GNU LICENSED)
