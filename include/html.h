@@ -4,7 +4,7 @@
 <title>Marmolak (not so sweet) home</title> \
 </head> \
 <body> \
-<link rel="stylesheet" type="text/css" href="marmolak.css"> \
+<link rel="stylesheet" type="text/css" href="/marmolak.css"> \
 <div id="main-body"> \
 <div> \
 <a href="/"><img src="/img/logo.png"></a> \
