@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="marmolak.css"> \
 <div id="main-body"> \
 <div> \
-<a href="/"><img src="img/logo.png"></a> \
+<a href="/"><img src="/img/logo.png"></a> \
 </div> \
 
 /* End of page */
