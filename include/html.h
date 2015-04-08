@@ -4,25 +4,21 @@
 <title>Marmolak (not so sweet) home</title> \
 </head> \
 <body> \
-<style> \
-body { \
-    background-color: #000000; \
-    color: #ffffff; \
-} \
-a { color: yellow; \
-} \
-</style> \
+<link rel="stylesheet" type="text/css" href="marmolak.css"> \
+<div id="main-body"> \
 <div> \
-<a href="/"><img src="/img/logo.png"></a> \
+<a href="/"><img src="img/logo.png"></a> \
 </div> \
 
 /* End of page */
 #define tail \
 <a href="/">Back to main page</a>
+</div> \
 </body> \
 </html>
 
 #define tail_front \
+</div> \
 </body> \
 </html>
 
