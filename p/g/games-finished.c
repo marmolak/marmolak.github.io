@@ -16,4 +16,14 @@ And yes.. some of them I play on my MacAIR running OS X.</p>
 
 <p>Hotline Miami - link(link, "http://en.wikipedia.org/wiki/Hotline_Miami")</p>
 
+<p>Shank - link(link, "http://en.wikipedia.org/wiki/Shank_(video_game)")</p>
+
+<p>Shank 2 - link(link, "http://en.wikipedia.org/wiki/Shank_2")</p>
+
+<p>Tomb Raider 2013 - link(link, "http://en.wikipedia.org/wiki/Shank_2")</p>
+
+<p>Alan Wake - link(link, "http://en.wikipedia.org/wiki/Alan_Wake")</p>
+
+<p>Another World (20th Anniversary) - link(link, "http://en.wikipedia.org/wiki/Another_World_(video_game)#20th_Anniversary")</p>
+
 tail
