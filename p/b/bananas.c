@@ -4,7 +4,7 @@ header
 <h1>BanaNAS - home made NAS solution</h1>
 
 <p>
-I always want to hawe own home NAS solution. But projects on market not satisfying my needs.
+I always want to have own home NAS solution. But projects on market not satisfying my needs.
 One day I talked with cooworker about some kinds of Pi machines. He mentioned BananaPi.
 BananaPi is not fully opensource hardware but it have: SATA connector, 1Gbit ethernet port, 1GB RAM.
 Ultimate features for home made NAS solution. At least for me.
