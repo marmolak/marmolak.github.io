@@ -26,6 +26,8 @@ And yes.. some of them I play on my MacAIR running OS X.</p>
 
 <p>Another World (20th Anniversary) - link(link, "http://en.wikipedia.org/wiki/Another_World_(video_game)#20th_Anniversary")</p>
 
-<p> Brothers: A Tale of Two Sons - link(link, "http://en.wikipedia.org/wiki/Brothers:_A_Tale_of_Two_Sons")</p>
+<p>Brothers: A Tale of Two Sons - link(link, "http://en.wikipedia.org/wiki/Brothers:_A_Tale_of_Two_Sons")</p>
+
+<p>Mark of the ninja - link(link, "https://en.wikipedia.org/wiki/Mark_of_the_Ninja")</p>
 
 tail
