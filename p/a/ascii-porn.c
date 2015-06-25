@@ -1,7 +1,7 @@
 #include "html.h"
 header
 
-<h1>My first ascii art porn (.plt.got on-the-fly patching)</h1>
+<h1>My first ascii art porn (.got.plt on-the-fly patching)</h1>
 
 <p>I found very interesting tool recently. It is called
 link(asciinema.org, "https://asciinema.org/")
