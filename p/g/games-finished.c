@@ -32,4 +32,6 @@ And yes.. some of them I play on my MacAIR running OS X.</p>
 
 <p>Quest for Glory 4 - Shadows of Darkness (as magic user) - link(link, "https://en.wikipedia.org/wiki/Quest_for_Glory:_Shadows_of_Darkness")</p>
 
+<p>State of Decay - link(link, "https://en.wikipedia.org/wiki/State_of_Decay_(video_game)")</p>
+
 tail
