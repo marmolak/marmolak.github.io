@@ -36,4 +36,10 @@ And yes.. some of them I play on my MacAIR running OS X.</p>
 
 <p>Retro city rampage DX - link(link, "https://en.wikipedia.org/wiki/Retro_City_Rampage")</p>
 
+<p>Bioshock 2 - link(link, "https://en.wikipedia.org/wiki/BioShock_2")</p>
+
+<p>FTL (easy) - link(link, "https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light")</p>
+
+<p>Outlast (easy/with DLC Whistleblower) - link(link, "https://en.wikipedia.org/wiki/Outlast")</p>
+
 tail
