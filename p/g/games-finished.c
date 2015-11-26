@@ -19,7 +19,7 @@ Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), O
 
 <p>Shank 2 - link(link, "http://en.wikipedia.org/wiki/Shank_2")</p>
 
-<p>Tomb Raider 2013 - link(link, "http://en.wikipedia.org/wiki/Shank_2")</p>
+<p>Tomb Raider 2013 - link(link, "https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)")</p>
 
 <p>Alan Wake - link(link, "http://en.wikipedia.org/wiki/Alan_Wake")</p>
 
