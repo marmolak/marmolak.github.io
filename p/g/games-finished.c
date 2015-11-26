@@ -6,7 +6,7 @@ header
 <p>List of games which I finished :)</p>
 <p>For some time I didn&apos;t play games... but it changed because Steam, GoG with combination of Linux support and presence of my new fully loaded MacBook Pro.</br>
 So this list contains only games which I finished in the "new era".</br>
-</p>
+Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), OS X, Xbox 360, ... and I hope that I will add Windows 10 :)</p>
 
 <p>Alone In The Dark I - link(link,"http://www.gog.com/game/alone_in_the_dark")</p>
 <p>Leisure Suit Larry: Love for Sail! - link(link,"http://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!")</p>
