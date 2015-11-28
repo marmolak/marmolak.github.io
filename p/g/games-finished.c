@@ -41,4 +41,6 @@ Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), O
 
 <p>Outlast (easy/with DLC Whistleblower) - link(link, "https://en.wikipedia.org/wiki/Outlast")</p>
 
+<p>Grand Theft Auto: San Andreas - link(link, "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas")</p>
+
 tail
