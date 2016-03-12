@@ -14,7 +14,7 @@
     		<h1><a href="/">Marmolak&#39;s place</a></h1> \
 	    	<nav> \
     			<ul> \
-        			<li class="start selected"><a href="index.html">Home</a></li> \
+        			<li class="start selected"><a href="/index.html">Home</a></li> \
          	   		<li><a href="https://github.com/marmolak">My github</a></li> \
           	 		<li class="end"><a href="#">Contact</a></li> \
         		</ul> \
