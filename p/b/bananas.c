@@ -19,7 +19,7 @@ link(iblocklist.com, "https://www.iblocklist.com/lists.php")
 <li>Samba server - mounted on Mac OS X station via autofs
 <li>FTP server - old good FTP - used now by VLC on old iPod for streaming mp3
 <li>Remote access - I decited to use link(tmate.io, "http://tmate.io") for remote access.I can reach my home network even when I don&amp;t have public IP.
-When system starts, mail is send via ssmtp (connected to gmail account) with connection string.
+When system starts, mail is send via ssmtp (connected to gmail account) with connection ::qstring.
 <li>Web server - List of interesting parts of my home network (list of network devices), primitive remote shutdown (html file is watched by inotify and when is accessed then <code>poweroff</code> is called).
 <li>DLNA server - I can play some multimedia files on my XBOX 360. Subtitles are not supported :/.
 </ul>
