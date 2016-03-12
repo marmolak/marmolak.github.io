@@ -35,7 +35,7 @@
                <li> \
                     <h4>Blocklist</h4> \
                     <ul class="blocklist"> \
-                        <li><a class="selected" href="index.html">Home Page</a></li> \
+                        <li><a class="selected" href="/index.html">Home Page</a></li> \
 <li>link(Hacking BlackThorne for fun, "/g/b/blackthorne.html")</li> \
 <li>link(Games which I finished (recently), "/g/g/games-finished.html")</li> \
 <li>link(Infamous (not much known) gcc bug, "/g/g/gcc-bug.html")</li> \
