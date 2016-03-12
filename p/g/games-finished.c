@@ -43,4 +43,8 @@ Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), O
 
 <p>Grand Theft Auto: San Andreas - link(link, "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas")</p>
 
+<p>The Dig - link(link, "https://en.wikipedia.org/wiki/The_Dig")</p>
+
+<p>Bioshock Infinite - link(link, "https://en.wikipedia.org/wiki/BioShock_Infinite")</p>
+
 tail
