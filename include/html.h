@@ -42,6 +42,7 @@
 <li>link(My own first Arduino hello world, "/g/a/arduino-hello.html")</li> \
 <li>link(BanaNAS - home made NAS solution, "/g/b/bananas.html")</li> \
 <li>link(My first ascii art porn (.got.plt on-the-fly patching), "/g/a/ascii-porn.html")</li> \
+<li>link(Games in progress, "/g/g/games-in-progress.html")</li> \
                     </ul> \
                 </li> \
             </ul> \
