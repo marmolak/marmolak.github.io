@@ -1,7 +1,7 @@
 #include "html.h"
 header
 
-<h1>BlackThorne</h1>
+<h2>BlackThorne</h2>
 
 <p>link(BlackThorne,"http://en.wikipedia.org/wiki/Blackthorne") were released for free for Mac OS X and Windows.<br/>
 (BTW: If you understand czech link(here,"http://games.tiscali.cz/video/retro-gamesplay-hrajeme-akcni-klasiku-blackthorne-od-blizzardu-247868") are short gameplay)</p>

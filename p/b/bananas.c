@@ -1,7 +1,7 @@
 #include "html.h"
 header
 
-<h1>BanaNAS - home made NAS solution</h1>
+<h2>BanaNAS - home made NAS solution</h2>
 
 <p>
 I always want to have own home NAS solution. But projects on market not satisfying my needs.
