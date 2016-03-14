@@ -1,7 +1,7 @@
 #include "html.h"
 header
 
-<h1>My own first Arduino hello world</h1>
+<h2>My own first Arduino hello world</h2>
 
 <p>I know that internet is full of arduino hello worlds these days. But this is mine!
 </p>
