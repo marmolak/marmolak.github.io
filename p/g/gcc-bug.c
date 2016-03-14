@@ -1,7 +1,7 @@
 #include "html.h"
 header
 
-<h1>Infamous (not much known) gcc bug</h1>
+<h2>Infamous (not much known) gcc bug</h2>
 
 <p>According to link(CERT C Coding Standard, "https://www.securecoding.cert.org/confluence/display/c/INT32-C.+Ensure+that+operations+on+signed+integers+do+not+result+in+overflow") when you face to integer overflow you should use code(-ftrapv) gcc flag. And everything should be fine.
 </p>
