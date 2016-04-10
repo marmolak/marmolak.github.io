@@ -8,6 +8,7 @@ header
 So this list contains only games which I finished in the "new era".</br>
 Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), OS X, Xbox 360, ... and I hope that I will add Windows 10 :)</p>
 
+<ul>
 <li>Alone In The Dark I - link(link,"http://www.gog.com/game/alone_in_the_dark")</li>
 
 <li>Leisure Suit Larry: Love for Sail! - link(link,"http://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!")</li>
@@ -16,7 +17,6 @@ Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), O
 
 <li>Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work - link(link, "http://en.wikipedia.org/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work")</li>
 
-<ul>
 <li>Hotline Miami - link(link, "http://en.wikipedia.org/wiki/Hotline_Miami")</li>
 
 <li>Shank - link(link, "http://en.wikipedia.org/wiki/Shank_(video_game)")</li>
@@ -50,6 +50,10 @@ Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), O
 <li>The Dig - link(link, "https://en.wikipedia.org/wiki/The_Dig")</li>
 
 <li>Bioshock Infinite - link(link, "https://en.wikipedia.org/wiki/BioShock_Infinite")</li>
+
+<li>Doom 1 (DoomsdayEngine) - link(link, "https://en.wikipedia.org/wiki/Doom_(1993_video_game)")</li>
+
+<li>Duke Nukem 3D (Steam version) - link(link, "https://en.wikipedia.org/wiki/Duke_Nukem_3D")</li>
 </ul>
 
 tail
