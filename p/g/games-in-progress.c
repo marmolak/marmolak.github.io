@@ -11,7 +11,6 @@ Sometimes I have more games in progress in parallel :).
 <ul>
 	<li>Shadow Warrior 2013</li>
 	<li>Legend of Grimrock</li>
-	<li>Doom 1 (Doomsday Engine)
 </ul>
 </p>
 
