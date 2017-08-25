@@ -52,8 +52,17 @@ Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), O
 <li>Bioshock Infinite - link(link, "https://en.wikipedia.org/wiki/BioShock_Infinite")</li>
 
 <li>Doom 1 (DoomsdayEngine) - link(link, "https://en.wikipedia.org/wiki/Doom_(1993_video_game)")</li>
-
 <li>Duke Nukem 3D (Steam version) - link(link, "https://en.wikipedia.org/wiki/Duke_Nukem_3D")</li>
+<li>Doom 1 (Ultimate, Brutal Doom mod) - link(link, "https://en.wikipedia.org/wiki/DOOM")</li>
+<li>Doom 2 (Brutal Doom mod) - link(link, "https://en.wikipedia.org/wiki/Doom_II%3A_Hell_on_Earth")</li>
+<li>Half-Life - link(link, "https://en.wikipedia.org/wiki/Half-Life_(video_game)")</li>
+
+<li>Day of the Tentacle (Remastered) - link(link, "https://en.wikipedia.org/wiki/Day_of_the_Tentacle")</li>
+<li>Dead Island - link(link, "https://en.wikipedia.org/wiki/Dead_Island")</li>
+<li>Portal - link(link, "blah")</li>
+<li>Portal 2 - link(link, "blah")</li>
+<li>POSTAL 2 - link(link, "blah")</li>
+<li>QuackShot - link(link, "https://en.wikipedia.org/wiki/QuackShot")</li>
 </ul>
 
 tail
