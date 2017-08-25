@@ -59,7 +59,7 @@ Games were played on different platforms like: Linux, FreeBSD (DosBOX + wine), O
 
 <li>Day of the Tentacle (Remastered) - link(link, "https://en.wikipedia.org/wiki/Day_of_the_Tentacle")</li>
 <li>Dead Island - link(link, "https://en.wikipedia.org/wiki/Dead_Island")</li>
-<li>Pony Island - (link, "https://en.wikipedia.org/wiki/Pony_Island")</li>
+<li>Pony Island - link(link, "https://en.wikipedia.org/wiki/Pony_Island")</li>
 <li>Portal - link(link, "blah")</li>
 <li>Portal 2 - link(link, "blah")</li>
 <li>POSTAL 2 - link(link, "blah")</li>
